@@ -1,0 +1,17 @@
+{
+	"init": [
+		{
+		"RotationSpeedInit": 0,
+		"RotationSpeedMax": 0,
+		"RotationAcceleMove": 0.2,
+		"RotationAcceleStop": 0.05,
+		"HumanHp": 0.5,
+		"HumanHeal": 1,
+		"HumanESpeed": 30,
+		"HumanSpeed": 15,
+		"SunAtk": 3,
+		"SunRangeStart": 80,
+		"SunRangeEnd": 100
+		}
+	]
+}	

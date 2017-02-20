@@ -1,0 +1,15 @@
+{
+	"InitialData": {
+		"RotationSpeedInit": 0,
+		"RotationSpeedMax": 0,
+		"RotationAcceleMove": 2,
+		"RotationAcceleStop": 0.05,
+		"HumanHp": 3,
+		"HumanHeal": 1,
+		"HumanESpeed": 50,
+		"HumanSpeed": 15,
+		"SunAtk": 1.5,
+		"SunRangeStart": 70,
+		"SunRangeEnd": 110
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"timeInfo": [
+		{
+			"type": 1,
+			"limitTime": 25,
+			"humanHp": 1,
+			"humanRegen": 0.25,
+			"humanCreateTime": 3,
+			"humanSpeed": 7,
+			"humanESpeed": 10,
+			"obstacleCreateTime": 10,
+			"helperCreateTime": 15
+		},
+		{
+			"type": 2,
+			"limitTime": 25,
+			"humanHp": 1.2,
+			"humanRegen": 0.5,
+			"humanCreateTime": 2,
+			"humanSpeed": 10,
+			"humanESpeed": 20,
+			"obstacleCreateTime": 13,
+			"helperCreateTime": 16
+		},
+		{
+			"type": 3,
+			"limitTime": 25,
+			"humanHp": 1.4,
+			"humanRegen": 0.75,
+			"humanCreateTime": 1,
+			"humanSpeed": 15,
+			"humanESpeed": 30,
+			"obstacleCreateTime": 11,
+			"helperCreateTime": 17
+		},
+		{
+			"type": 4,
+			"limitTime": 25,
+			"humanHp": 1.6,
+			"humanRegen": 1,
+			"humanCreateTime": 2,
+			"humanSpeed": 20,
+			"humanESpeed": 30,
+			"obstacleCreateTime": 9,
+			"helperCreateTime": 18
+		},
+		{
+			"type": 5,
+			"limitTime": 25,
+			"humanHp": 1.8,
+			"humanRegen": 1.25,
+			"humanCreateTime": 3,
+			"humanSpeed": 30,
+			"humanESpeed": 40,
+			"obstacleCreateTime": 8,
+			"helperCreateTime": 20
+		},
+		{
+			"type": 6,
+			"limitTime": 25,
+			"humanHp": 2,
+			"humanRegen": 1.5,
+			"humanCreateTime": 2,
+			"humanSpeed": 40,
+			"humanESpeed": 50,
+			"obstacleCreateTime": 8,
+			"helperCreateTime": 21
+		},
+		{
+			"type": 7,
+			"limitTime": 25,
+			"humanHp": 2.2,
+			"humanRegen": 1.75,
+			"humanCreateTime": 1,
+			"humanSpeed": 40,
+			"humanESpeed": 60,
+			"obstacleCreateTime": 8,
+			"helperCreateTime": 23
+		},
+		{
+			"type": 8,
+			"limitTime": 25,
+			"humanHp": 2.4,
+			"humanRegen": 2,
+			"humanCreateTime": 3,
+			"humanSpeed": 40,
+			"humanESpeed": 60,
+			"obstacleCreateTime": 7,
+			"helperCreateTime": 24
+		},
+		{
+			"type": 9,
+			"limitTime": 25,
+			"humanHp": 2.6,
+			"humanRegen": 2.25,
+			"humanCreateTime": 2,
+			"humanSpeed": 40,
+			"humanESpeed": 60,
+			"obstacleCreateTime": 6,
+			"helperCreateTime": 25
+		},
+		{
+			"type": 10,
+			"limitTime": 25,
+			"humanHp": 2.8,
+			"humanRegen": 2.5,
+			"humanCreateTime": 3,
+			"humanSpeed": 40,
+			"humanESpeed": 60,
+			"obstacleCreateTime": 5,
+			"helperCreateTime": 25
+		}
+	]
+}
